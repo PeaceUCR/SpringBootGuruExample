@@ -1,5 +1,6 @@
 Copy from https://springframework.guru/spring-boot-web-application-part-6-spring-security-with-dao-authentication-provider/
 
+Myown Re-implemenation at https://github.com/PeaceUCR/SpringBootMySecure
 
 **/domain
 https://springframework.guru/solid-principles-object-oriented-programming/
